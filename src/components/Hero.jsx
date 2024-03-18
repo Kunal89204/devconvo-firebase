@@ -360,7 +360,7 @@ const Hero = () => {
           <div className="text-sm ">Free</div>
           <div className="text-sm text-white">.</div>
         </div>
-        <div className="flex flex-col justify-center items-center b lg:border-b-0 px-10  lg:w-1/4">
+        <div className="flex flex-col justify-center items-center b lg:border-b-0 px-10 pt-4 lg:pt-0  lg:w-1/4">
           <div>
          <Days />
           </div>
