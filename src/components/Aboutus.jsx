@@ -1,7 +1,6 @@
 import React from "react";
 import Image from 'next/image'
 import Grp from "../assets/grp.png";
-import { FaCheck } from "react-icons/fa";
 import Tick from "../assets/tick.png";
 
 const Aboutus = () => {
@@ -20,19 +19,19 @@ const Aboutus = () => {
               Azure, explore the vast realms of Open-Source, and unlock the
               mysteries of Artificial Intelligence. This is an unparalleled
               opportunity to network with industry experts, share insights, and
-              elevate your tech skills to new heights. Don't miss out on this
+              elevate your tech skills to new heights. Don&apos;t miss out on this
               groundbreaking event!
             </div>
             <div className="pt-4 py-1 2xl:text-lg">
-              - In our session, we'll delve into key Azure services, best
+              - In our session, we&apos;ll delve into key Azure services, best
               practices, and real-world applications, giving you the insights
               you need to harness the full potential of cloud computing.
             </div>
             <div className="py-1 2xl:text-lg">
               - Join us as we explore the principles of open-source, highlight
               its impact on the tech industry, and showcase how you can actively
-              participate in this vibrant community. Whether you're a seasoned
-              developer or new to the open-source world, there's something for
+              participate in this vibrant community. Whether you&apos;re a seasoned
+              developer or new to the open-source world, there&apos;s something for
               everyone in this enlightening session.
             </div>
             <div className="py-1 pb-4 2xl:text-lg">
