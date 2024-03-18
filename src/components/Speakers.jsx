@@ -7,7 +7,7 @@ import Grad from '../assets/DevConvo'
 
 const Speakers = () => {
   return (
-    <div className="mt-16">
+    <div className="mt-6">
       <h1 className="lg:text-7xl text-5xl font-bold text-blue-500 text-center pt-10 pb-4">SPEAKERS</h1>
       <div className="flex flex-col items-center lg:flex-row p-10 gap-6 lg:justify-center">
 

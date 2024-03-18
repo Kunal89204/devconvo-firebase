@@ -74,7 +74,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="relative pb-72 ">
+    <div className="relative pb-96 ">
       <div className="lg:flex">
         
         <div className="lg:w-1/2  w-full p-4 px-8 md:px-16 lg:px-20">
