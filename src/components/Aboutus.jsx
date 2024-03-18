@@ -5,7 +5,7 @@ import Tick from "../assets/tick.png";
 
 const Aboutus = () => {
   return (
-    <div className="pt-56 lg:pb-36 pb-4 2xl:pb-80  bg-blue-50">
+    <div className="pt-56 lg:pt-20 lg:pb-36 pb-4 2xl:pb-80  bg-blue-50">
       <div className="pt-32  md:grid md:grid-flow-col md:grid-cols-5 md:gap-10">
         <div className="h-[0vh] md:col-span-2 md:opacity-100 opacity-20  pl-20">
           <Image src={Grp} alt="" className="m-auto hidden sm:block" />

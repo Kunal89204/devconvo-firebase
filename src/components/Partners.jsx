@@ -6,7 +6,7 @@ import Bsp2 from "../assets/bsp2.jpg";
 const Partners = () => {
   return (
     <>
-      <div className="bg-gradient-to-br from-blue-700 to-green-400 py-5 mt-20">
+      <div className="bg-gradient-to-br from-blue-700 to-green-400 py-5  mt-20">
         <div className="text-center text-4xl  lg:text-5xl text-white font-bold">
           PARTNERS
         </div>
