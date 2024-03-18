@@ -5,10 +5,10 @@ import Vector2 from '../assets/Vector2.png'
 
 const Schedule = () => {
   return (
-    <div className="relative">
+    <div className="relative lg:pt-20 pt-0">
         <Image src={Vector} alt="" className="absolute left-0 scale-95 w-1/5 -z-10 hidden lg:block" />
         <Image src={Vector2} alt="" className="absolute right-0 top-60 w-1/5 scale-95 -z-10 hidden lg:block" />
-      <div className="pt-32">
+      <div className="">
         <div className="lg:text-7xl text-5xl text-blue-500 font-bold text-center">
           SCHEDULE
         </div>
