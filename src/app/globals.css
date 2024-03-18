@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  body {
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+  }
+  
+  
+  body::-webkit-scrollbar{
+    width: 4px;
+  }
+  
+  body::-webkit-scrollbar-track{
+    background: transparent;
+  }
+  
+  body::-webkit-scrollbar-thumb{
+    background: rgb(0, 162, 255);
+    border-radius: 10px;
+  }
+
+  .border-gradient {
+    border-width: 2px; /* Adjust border width as needed */
+  
+    border-style: solid;
+    border-image: linear-gradient(175deg, rgb(0, 33, 208), rgb(54, 243, 104)) 10;
+  }
